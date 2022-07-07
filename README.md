@@ -1,1 +1,1 @@
-Interesting modern web projects, updated weekly.
+Modern web projects, updated weekly.
